@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Suvendu Roy
 #### I am beginner in web developer.
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erantona)](https://github.com/anuraghazra/github-readme-stats)
-
-I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite for my brother.  I like to watch anime and design in free time. 
+I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite for my brother.  I like to watch anime and design in free time.
+<img src="https://github.com/erantona/erantona/blob/main/ezgif-6-f41f00fb7ede.gif"/>
 
 Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS
 
