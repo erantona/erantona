@@ -1,12 +1,15 @@
-### Hello world, I'm Suvendu Roy - aka erantona👋
-#### I am beginner in web development field.
-I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite for my brother.My favorite tools are Intellij, VS Code, Figma, Maven & oviously github😅.I like to watch anime and design in free time.
-
-
+#### Hello world, I'm Suvendu Roy - aka erantona👋
 
 <img align="right" src="https://github.com/erantona/erantona/blob/main/ezgif-6-f41f00fb7ede.gif" width="400"/>
 
 
+I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite for my brother.My favorite tools are Intellij, VS Code, Figma, Maven & oviously github😅.I like to watch anime and design in free time.
+
+
+
+
+#### I am beginner in web development field.
+--------------------------------------------
 - 🔭 I’m currently working on Jikan API. 
 - 🌱 I’m currently learning Spring & React Hooks. 
 - 👯 I’m looking to collaborate on Spring Boot Projects. 
