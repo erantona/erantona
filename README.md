@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Suvendu Roy - aka [erantona][website]
+### Hello world, I'm Suvendu Roy - aka erantona👋
 #### I am beginner in web development field.
 I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite for my brother.My favorite tools are Intellij, VS Code, Figma, Maven & oviously github😅.I like to watch anime and design in free time.
 
 
 
-<img src="https://github.com/erantona/erantona/blob/main/ezgif-6-f41f00fb7ede.gif" width="400"/>
+<img align="right" src="https://github.com/erantona/erantona/blob/main/ezgif-6-f41f00fb7ede.gif" width="400"/>
 
 
 - 🔭 I’m currently working on Jikan API. 
@@ -12,7 +12,6 @@ I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite 
 - 👯 I’m looking to collaborate on Spring Boot Projects. 
 - 🤔 I’m looking for help with Tailwind css. 
 
-### Talk with me, I am kinda awesome:
 
 
 ### Languages and Tools:
@@ -64,7 +63,7 @@ I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite 
 
 <br />
 <br />
----
+--------------------------------------------------
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -81,6 +80,8 @@ I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite 
 </details>
 
 
+
+### Talk with me, I am kinda awesome:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/erantona)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sunju434492)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/erantona/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/erantona/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/eran_tona)  
 
