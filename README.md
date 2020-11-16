@@ -1,7 +1,10 @@
-### Hi there 👋, my name is Suvendu Roy
-#### I am beginner in web developer.
-I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite for my brother.  I like to watch anime and design in free time.
-<img src="https://github.com/erantona/erantona/blob/main/ezgif-6-f41f00fb7ede.gif"/>
+### Hi there 👋, my name is Suvendu Roy - aka [erantona]
+#### I am beginner in web developer field.
+I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite for my brother.My favorite tools are Intellij, VS Code, Figma, Maven & oviously github😅.I like to watch anime and design in free time.
+
+
+
+<img src="https://github.com/erantona/erantona/blob/main/ezgif-6-f41f00fb7ede.gif" width="400"/>
 
 Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS
 
