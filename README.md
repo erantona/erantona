@@ -1,4 +1,4 @@
-### Hi there, I'm Suvendu Roy - aka [erantona][instagram.com/eran_tona] 👋
+### Hi there, I'm Suvendu Roy - aka [erantona][roycrane.tech] 👋
 
 ## I'm a Student, Undergraduate, Developer, and Otaku!!⛩🎌
 
