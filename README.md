@@ -1,12 +1,11 @@
-### Hi there 👋, my name is Suvendu Roy - aka [erantona]
-#### I am beginner in web developer field.
+### Hi there 👋, my name is Suvendu Roy - aka [erantona][website]
+#### I am beginner in web development field.
 I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite for my brother.My favorite tools are Intellij, VS Code, Figma, Maven & oviously github😅.I like to watch anime and design in free time.
 
 
 
 <img src="https://github.com/erantona/erantona/blob/main/ezgif-6-f41f00fb7ede.gif" width="400"/>
 
-Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Jikan API. 
 - 🌱 I’m currently learning Spring & React Hooks. 
@@ -14,9 +13,7 @@ Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS
 - 🤔 I’m looking for help with Tailwind css. 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
 
 ### Languages and Tools:
 
