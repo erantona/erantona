@@ -22,7 +22,7 @@ I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="java" width="26px" src="https://banner2.cleanpng.com/20180715/gzu/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1e74f20.0073080715316819699475.jpg" />
+<img align="left" alt="java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
 <img align="left" alt="SpringBoot" width="26px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
