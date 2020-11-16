@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Suvendu Roy
 #### I am beginner in web developer.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erantona)](https://github.com/anuraghazra/github-readme-stats)
+
 ![I am beginner in web developer.](https://images.unsplash.com/photo-1527427337751-fdca2f128ce5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
 
 I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite for my brother.  I like to watch anime and design in free time. 
