@@ -13,7 +13,7 @@ I made few besic JS projects, JSP Servlet EBlog Aplicaton and a company WebSite 
 - 🔭 I’m currently working on Jikan API. 
 - 🌱 I’m currently learning Spring & React Hooks. 
 - 👯 I’m looking to collaborate on Spring Boot Projects. 
-- 🤔 I’m looking for help with Tailwind css. 
+- 🤔 I’m looking for help with Context api. 
 
 
 
